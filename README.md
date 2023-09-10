@@ -4,7 +4,7 @@ Welcome to the MLH Fellowship! During Week 1, you'll be using Flask to build a p
 
 ## Tasks
 
-Once you've got your portfolio downloaded and running using the instructions below, you should attempt to complete the following tasks.
+Once you've gotten your portfolio downloaded and running using the instructions below, you should attempt to complete the following tasks.
 
 For each of these tasks, you should create an [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and work on them in a new [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches). When the task has been completed, you should open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and get another fellow in your pod to give you feedback before merging it in.
 
